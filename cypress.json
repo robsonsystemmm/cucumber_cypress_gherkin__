@@ -1,0 +1,6 @@
+{
+    "viewportWidth": 1366,
+    "viewportHeight": 768,
+    "defaultCommandTimeout": 50000,
+    "baseUrl": "https://www.mercadolivre.com.br"
+}
