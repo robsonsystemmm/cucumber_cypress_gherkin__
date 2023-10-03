@@ -1,9 +1,15 @@
 1 - Montar ambiente de trabalho com as bibliotecas necessarias.
+
+
     1.1. instalar o node js https://nodejs.org/en/download
+    
     1.2. instalar o cucumber npm install -g cucumber
+    
     1.3. ferramenta de integração do site com o cucumber
             npm install cypress@9.7.0 cypress-cucumber-preprocessor
+    
     1.4. packge.json npm init -y
+
 
 2 - configurar o Cucumber no Cypress
 
